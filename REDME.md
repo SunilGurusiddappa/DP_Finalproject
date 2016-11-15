@@ -4,13 +4,13 @@ Developing-Data-Products-Fianl Project
 Coursera Course: Developing Data Products
 
 Assignment Submission Files
-- [ui.R](https://github.com/.../ui.R)
-- [server.R](https://github.com/.../server.R)
-- [README.md](https://github.com/../README.md)
+- [ui.R](https://github.com/SunilGurusiddappa/DP_Finalproject/blob/master/ui.R)
+- [server.R](https://github.com/SunilGurusiddappa/DP_Finalproject/blob/master/server.R)
+- [README.md](https://github.com/SunilGurusiddappa/DP_Finalproject/blob/master/REDME.md)
 
 Instructions
 
-1. Clone the code using 'git clone https://github.com/...git YOURDIRECTORY'
+1. Clone the code using 'git clone https://github.com/SunilGurusiddappa/DP_Finalproject YOURDIRECTORY'
 
 2. Load your RStudio
 
@@ -29,5 +29,5 @@ Dependencies
 More Information
 
 ################
-The application is deployed on ShinyApps.io at [https://
+The application is deployed on ShinyApps.io at [https://sunilgurusiddappa.shinyapps.io/dpfinalproject/]
 ################
